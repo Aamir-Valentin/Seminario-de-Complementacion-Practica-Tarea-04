@@ -1,0 +1,5 @@
+Las versiones de las herramientas usadas en el proyecto son:
+Composer versión 2.9.5
+PHP versión 8.2.12
+Laravel versión 12.54.1
+Node JS versión 24.13.1
